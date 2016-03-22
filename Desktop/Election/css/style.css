@@ -1,0 +1,25 @@
+#clinton {
+  max-height: 300px;
+  border: 3px solid black;
+}
+#trump {
+  max-height: 300px;
+  border: 3px solid black;
+}
+#sanders {
+  max-height: 300px;
+  ;
+}
+
+.intro img {
+  display: none
+}
+
+.clickable1, .clickable2, .clickable3 {
+  cursor: pointer;
+  color: purple;
+}
+
+.clickable1:hover, .clickable2:hover, .clickable3:hover {
+    text-decoration: underline;
+}
